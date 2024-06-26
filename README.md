@@ -1,4 +1,5 @@
 /*Class1*/
+
 package studentsystem;
 
 import java.io.Serializable;
@@ -36,6 +37,7 @@ public class Student implements Serializable {
                 '}';
     }
 }
+
 /*Class2*/
 
 package studentsystem;
